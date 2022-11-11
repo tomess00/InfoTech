@@ -29,6 +29,7 @@ body {
 
 img {
    width: 100%;
+   height: 100%;
    object-fit: cover;
 }
 
@@ -295,7 +296,7 @@ i.close-icon {
       position: relative;
       position: fixed;
       top: 0;
-      z-index: 3;
+      z-index: 13;
       transform: translateX(-100%);
       transition: var(--transition);
    }
