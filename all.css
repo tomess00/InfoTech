@@ -296,7 +296,7 @@ i.close-icon {
       position: relative;
       position: fixed;
       top: 0;
-      z-index: 13;
+      z-index: 3;
       transform: translateX(-100%);
       transition: var(--transition);
    }
