@@ -218,6 +218,19 @@
    .post-link p.link {
       white-space: normal;
    }
+
+   .other-tag {
+      /* padding: 2px 5px; */
+      font-size: 10px;
+   }
+   .other-details h3 {
+      font-size: 15px;
+      line-height: 15px;
+      margin: 5px 0;
+   }
+   .other-details .other-date {
+      font-size: 10px;
+   }
 }
 
 /* .article-details,
