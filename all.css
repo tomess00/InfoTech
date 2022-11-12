@@ -124,6 +124,10 @@ h3 {
    color: var(--white);
 }
 
+.btn a {
+   width: 100%;
+}
+
 @media screen and (max-width: 768px) {
    div.container {
       padding: 20px;

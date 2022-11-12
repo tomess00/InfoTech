@@ -1,7 +1,7 @@
-const navbar = document.querySelector('.navbar');
-const menuIcon = document.querySelector('.menu-toggle');
-const closeIcon = document.querySelector('.close-icon');
-const body = document.querySelector('body');
+const navbar = document.querySelector('.navbar'),
+   menuIcon = document.querySelector('.menu-toggle'),
+   closeIcon = document.querySelector('.close-icon'),
+   body = document.querySelector('body')
 
 
 // FONCTION QUI AFFICHE LA BARRE LATERALE
